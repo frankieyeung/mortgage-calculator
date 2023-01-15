@@ -1,2 +1,2 @@
 # mortgage-calculator
-A mortgage calculator app using Rust
+A mortgage calculator web app using Rust
